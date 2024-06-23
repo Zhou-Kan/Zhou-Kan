@@ -26,9 +26,13 @@
 - 💬 Ask me about ... **GUI Development**
 - 📫 How to reach me **zouzhoukankan@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kankanzhou&layout=donut)](https://github.com/kankanzhou/github-readme-stats)
+<a href="https://github.com/kankanzhou/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kankanzhou" />
+</a>
+<a href="https://github.com/kankanzhou/convoychat">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kankanzhou&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-[![kanzhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=kankanzhou)](https://github.com/kankanzhou/github-readme-stats)
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://github.com/kankanzhou/pics/blob/main/pics/cpp.png?raw=true" alt=cplusplus width="60" height="60"/>
