@@ -22,8 +22,8 @@
 
 
 - 🔭 I’m currently working on **Siemens**
-- 🌱 I’m currently learning ... **System Design**
-- 💬 Ask me about ... **GUI Development**
+- 🌱 I’m currently learning  **System Design**
+- 💬 Ask me about  **GUI Development**
 - 📫 How to reach me **zouzhoukankan@gmail.com**
 
 <a href="https://github.com/kankanzhou/github-readme-stats">
