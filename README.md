@@ -25,6 +25,10 @@
 - 🌱 I’m currently learning ... **System Design**
 - 💬 Ask me about ... **GUI Development**
 - 📫 How to reach me **zouzhoukankan@gmail.com**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kankanzhou&langs_count=8)
+
+[![kanzhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=kankanzhou)](https://github.com/kankanzhou/github-readme-stats)
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://github.com/kankanzhou/pics/blob/main/pics/cpp.png?raw=true" alt=cplusplus width="60" height="60"/>
