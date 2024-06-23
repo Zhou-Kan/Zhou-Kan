@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://github.com/kankanzhou/pics/blob/main/pics/gastly.gif?raw=true" width="80px">, I'm Kan Zhou</h1>
+ <p align="center"><br/>
+  
+  <a href="https://leetcode.com/u/zhoukan/">
+    <img src="https://github.com/kankanzhou/pics/blob/main/pics/lc.png?raw=true" width="30" height="30">
+  </a>
+</p>
 
-<!--
-**kankanzhou/kankanzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate Software Developer from China </h3>
+<h3 align="center">Bachelor: <img src=https://github.com/kankanzhou/pics/blob/main/pics/bit.png?raw=true alt=c width="30" height="30" style="vertical-align: middle;"</h3>
 
-Here are some ideas to get you started:
+<h3 align="center">
+    Master: 
+    <img src="https://github.com/kankanzhou/pics/blob/main/pics/git.png?raw=true" width="30" height="30" style="vertical-align: middle;">
+    <img src="https://github.com/kankanzhou/pics/blob/main/pics/sjtu.png?raw=true" width="30" height="30" style="vertical-align: middle;">
+    <img src="https://github.com/kankanzhou/pics/blob/main/pics/neu.png?raw=true" width="30" height="30" style="vertical-align: middle;">
+</h3>
 
-## - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=kankanzhou alt=kankanzhou/></p>
+
+<img width="50%" align="right" alt="Github Image" src="https://github.com/kankanzhou/pics/blob/main/pics/Running-Pikachu-GIF.webp?raw=true">
+
+
+- 🔭 I’m currently working on **Siemens**
+- 🌱 I’m currently learning ... **System Design**
+- 💬 Ask me about ... **GUI Development**
+- 📫 How to reach me **zouzhoukankan@gmail.com**
+<h4>Programming Languages: </h4>
+<p align="left">
+ <img style="margin: auto;" src="https://github.com/kankanzhou/pics/blob/main/pics/cpp.png?raw=true" alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src="https://github.com/kankanzhou/pics/blob/main/pics/c.png?raw=true" alt=c width="60" height="60"/>
+ <img style="margin: auto;" src="https://github.com/kankanzhou/pics/blob/main/pics/python.png?raw=true" alt=python width="60" height="60"/>
+</p>
+
+
+
+
