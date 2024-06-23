@@ -26,7 +26,7 @@
 - 💬 Ask me about ... **GUI Development**
 - 📫 How to reach me **zouzhoukankan@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kankanzhou&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kankanzhou&layout=donut)](https://github.com/kankanzhou/github-readme-stats)
 
 [![kanzhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=kankanzhou)](https://github.com/kankanzhou/github-readme-stats)
 <h4>Programming Languages: </h4>
