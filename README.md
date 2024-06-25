@@ -21,7 +21,7 @@
 <img width="50%" align="right" alt="Github Image" src="https://github.com/kankanzhou/pics/blob/main/pics/Running-Pikachu-GIF.webp?raw=true">
 
 
-- 🔭 I’m currently working on **Siemens**
+- 🔭 I’m currently working at **Siemens**
 - 🌱 I’m currently learning  **System Design**
 - 💬 Ask me about  **GUI Development**
 - 📫 How to reach me **zouzhoukankan@gmail.com**
