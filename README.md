@@ -24,7 +24,7 @@
 - 🔭 I’m currently working at **Siemens**
 - 🌱 I’m currently learning  **System Design**
 - 💬 Ask me about  **What you want**
-- 📫 How to reach me **zouzhoukankan@gmail.com**
+- 📫 How to reach me **kanz319@gatech.edu**
 
 <a href="https://github.com/Zhou-Kan/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zhou-Kan" />
