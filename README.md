@@ -1,11 +1,8 @@
 <h1 align="center">Hi <img src="https://github.com/Zhou-Kan/pics/blob/main/pics/gastly.gif?raw=true" width="80px">, I'm Kan Zhou</h1>
  <p align="center"><br/>
-  
+  Leetcode:
   <a href="https://leetcode.com/u/zhoukan/">
-   <h3 align="center">
-      Leetcode:
-      <img src="https://github.com/Zhou-Kan/pics/blob/main/pics/lc.png?raw=true" width="50" height="50">
-   </h3>
+     <img src="https://github.com/Zhou-Kan/pics/blob/main/pics/lc.png?raw=true" width="50" height="50" ">
   </a>
 </p>
 
