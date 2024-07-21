@@ -2,7 +2,10 @@
  <p align="center"><br/>
   
   <a href="https://leetcode.com/u/zhoukan/">
-    <img src="https://github.com/Zhou-Kan/pics/blob/main/pics/lc.png?raw=true" width="30" height="30">
+   <h3 align="center">
+      Leetcode:
+      <img src="https://github.com/Zhou-Kan/pics/blob/main/pics/lc.png?raw=true" width="50" height="50">
+   </h3>
   </a>
 </p>
 
