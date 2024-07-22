@@ -20,13 +20,17 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://github.com/Zhou-Kan/pics/blob/main/pics/Running-Pikachu-GIF.webp?raw=true">
 
-
 - 🔭 I’m currently working at **Siemens**
 - 🌱 I’m currently learning  **System Design**
 - 💬 Ask me about  **What you want**
 - 📫 How to reach me **kzhou319@gatech.edu**
 
-
+<a href="https://github.com/Zhou-Kan/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zhou-Kan" />
+</a>
+<a href="https://github.com/Zhou-Kan/convoychat">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zhou-Kan&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <h4>Programming Languages: </h4>
 <p align="left">
