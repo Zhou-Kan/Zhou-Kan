@@ -18,7 +18,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Zhou-Kan alt=Zhou-Kan/></p>
 
-<img width="50%" align="right" alt="Github Image" src="https://github.com/Zhou-Kan/pics/blob/main/pics/Running-Pikachu-GIF.webp?raw=true">
+<img width="20%" align="right" alt="Github Image" src="https://github.com/Zhou-Kan/pics/blob/main/pics/Running-Pikachu-GIF.webp?raw=true">
 
 - 🔭 I’m currently working at **Siemens**
 - 🌱 I’m currently learning  **System Design**
