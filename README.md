@@ -6,15 +6,15 @@
   </a>
 </p>
 
-<h3 align="center">A passionate Software Developer from China </h3>
+<!--<h3 align="center">A passionate Software Developer from China </h3>
 <h3 align="center">Bachelor: <img src=https://github.com/Zhou-Kan/pics/blob/main/pics/bit.png?raw=true alt=c width="30" height="30" style="vertical-align: middle;"</h3>
 
 <h3 align="center">
-    Master: 
+   Master: 
     <img src="https://github.com/Zhou-Kan/pics/blob/main/pics/git.png?raw=true" width="30" height="30" style="vertical-align: middle;">
     <img src="https://github.com/Zhou-Kan/pics/blob/main/pics/sjtu.png?raw=true" width="30" height="30" style="vertical-align: middle;">
-    <img src="https://github.com/Zhou-Kan/pics/blob/main/pics/neu.png?raw=true" width="30" height="30" style="vertical-align: middle;">
-</h3>
+   <img src="https://github.com/Zhou-Kan/pics/blob/main/pics/neu.png?raw=true" width="30" height="30" style="vertical-align: middle;">
+</h3> -->
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Zhou-Kan alt=Zhou-Kan/></p>
 
