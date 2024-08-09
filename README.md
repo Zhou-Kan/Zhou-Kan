@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://github.com/Zhou-Kan/pics/blob/main/pics/gastly.gif?raw=true" width="80px">, I'm Kan Zhou</h1>
- <p align="center"><br/>
+<!--  <p align="center"><br/>
   Leetcode:
   <a href="https://leetcode.com/u/zhoukan/">
      <img src="https://github.com/Zhou-Kan/pics/blob/main/pics/lc.png?raw=true" width="50" height="50" ">
   </a>
-</p>
+</p> -->
 
 <!--<h3 align="center">A passionate Software Developer from China </h3>
 <h3 align="center">Bachelor: <img src=https://github.com/Zhou-Kan/pics/blob/main/pics/bit.png?raw=true alt=c width="30" height="30" style="vertical-align: middle;"</h3>
