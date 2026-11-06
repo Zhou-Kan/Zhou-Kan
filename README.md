@@ -1,59 +1,32 @@
-# 👋 Hi, I'm Kan Zhou
+# Kan Zhou
 
-📍 Vancouver, BC, Canada  
-💻 Software Developer | Backend Systems | Computer Vision
+**Full-Stack Developer** · Vancouver, BC, Canada
 
-I build practical software across backend services, cloud systems, and computer vision. I enjoy working on problems that connect APIs, data pipelines, and real-world devices.
+Building full-stack applications and cloud services, with additional experience in computer vision.
 
-## 🌤️ Currently
+## 💻 Featured Projects
 
-> Learning, building, and exploring how reliable software systems are designed.
-
-- Improving my skills in Java, Spring Boot, and backend architecture
-- Studying system design and distributed systems
-- Exploring LLM-powered applications and data agents
-- Working with computer vision on edge devices
-
-## 🙌 About Me
-
-- Software developer with experience in backend development, test automation, and computer vision
-- Interested in cloud services, data pipelines, AI applications, and robotics
-- Based in Vancouver, Canada
-
-## 🚀 Selected Projects
-
-| Project | Source | Description | Technologies | Focus |
+| Project | Repository | Description | Tech Stack | Highlights |
 | --- | --- | --- | --- | --- |
-| Video Analytics Platform | Private work project | Backend workflows for camera-video ingestion, asynchronous event processing, and clip review. | Java, Spring Boot, PostgreSQL, AWS S3/SQS, FFmpeg | Cloud backend and event processing |
-| Edge Vision Event Detection | Private work project | An edge computer-vision pipeline that analyzes camera streams and sends event clips for cloud processing. | Python, Jetson, MediaPipe, YOLOv8, TensorRT | Real-time inference on edge devices |
-| [DataAgent](https://github.com/Zhou-Kan/DataAgent) | Fork of [MaloneTalk/DataAgent](https://github.com/MaloneTalk/DataAgent) | An LLM-powered natural-language data agent with JDBC-based multi-datasource support and a semantic layer. | Java, JDBC, LLM | Exploring data agents |
-| [Leetcode_Python_Cpp](https://github.com/Zhou-Kan/Leetcode_Python_Cpp) | Personal practice | Solutions and practice for LeetCode problems in Python and C++. | Python, C++ | Algorithms and problem solving |
+| Full-Stack Video Analytics Platform | Private work project | A web dashboard and backend for managing sites, reviewing detected events, and watching video clips. | React, Next.js, TypeScript, Java, Spring Boot, PostgreSQL, AWS | Role-based access, multi-site management, REST APIs, event review |
+| Edge Vision Detection Pipeline | Private work project | An edge pipeline that analyzes camera streams and sends detected event clips to cloud services. | Python, Jetson Orin Nano, MediaPipe, YOLOv8, TensorRT, AWS | Real-time inference, clip capture, asynchronous upload |
+| [DataAgent](https://github.com/Zhou-Kan/DataAgent) | Fork of [MaloneTalk/DataAgent](https://github.com/MaloneTalk/DataAgent) | An LLM-powered natural-language data agent with JDBC-based multi-datasource support and a semantic layer. | Java, JDBC, LLM | Natural-language access to structured data |
+| [Leetcode_Python_Cpp](https://github.com/Zhou-Kan/Leetcode_Python_Cpp) | Personal practice | A collection of LeetCode solutions written in Python and C++. | Python, C++ | Algorithms and problem solving |
 
-## 🌱 Open-Source Codebases
+## 🌱 Open-Source Repositories
 
-These are forks of upstream projects that I'm exploring:
+Forks of projects I’m exploring:
 
-| Repository | Upstream project | Area |
+| Repository | Upstream | Project |
 | --- | --- | --- |
 | [fineract](https://github.com/Zhou-Kan/fineract) | [apache/fineract](https://github.com/apache/fineract) | Digital financial services |
 | [polaris](https://github.com/Zhou-Kan/polaris) | [apache/polaris](https://github.com/apache/polaris) | Apache Iceberg catalog |
 | [commons-lang](https://github.com/Zhou-Kan/commons-lang) | [apache/commons-lang](https://github.com/apache/commons-lang) | Java utility library |
 | [kafka](https://github.com/Zhou-Kan/kafka) | [apache/kafka](https://github.com/apache/kafka) | Distributed event streaming |
 
-## 🧰 Technologies
+## 🧰 Tech Stack
 
-**Languages:** Java · Python · TypeScript · C++  
-**Backend:** Spring Boot · REST APIs · PostgreSQL  
-**Cloud & Tools:** AWS · Docker · Linux · Git · Jenkins · pytest  
+**Frontend:** React · Next.js · TypeScript  
+**Backend:** Java · Spring Boot · Python · FastAPI · REST APIs  
+**Cloud & Data:** AWS · PostgreSQL · Redis · Docker · Linux  
 **Computer Vision:** MediaPipe · YOLOv8 · TensorRT · Jetson
-
-## 📚 What I'm Learning
-
-- Designing reliable backend services and APIs
-- Authentication, authorization, and gateway patterns
-- Distributed systems and event-driven architecture
-- Practical applications of LLMs and computer vision
-
-## 📫 Connect
-
-- GitHub: [@Zhou-Kan](https://github.com/Zhou-Kan)
