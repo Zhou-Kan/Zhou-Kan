@@ -1,11 +1,11 @@
 ## ☀️ Today in Vancouver
 
 <!-- DAILY-SECTION-START -->
-> Updated daily by GitHub Actions.
+> Last updated: Nov 05, 2026 at 10:07 PM MST · Automatically refreshed daily.
 
 Hello, I'm Kan, based in Vancouver. Here's today's image:
 
-<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="Bing daily image">
+<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="One step closer to the summit">
 <!-- DAILY-SECTION-END -->
 
 ## 💼 Projects
