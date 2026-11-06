@@ -1,7 +1,7 @@
 ## ☀️ Today in Vancouver
 
 <!-- DAILY-SECTION-START -->
-> Last updated: Nov 05, 2026 at 10:13 PM MST · Automatically refreshed daily.
+> Last updated: Nov 05, 2026 at 10:13 PM MST · 
 
 Hello, I'm Kan, based in Vancouver. Here's today's local photo:
 
