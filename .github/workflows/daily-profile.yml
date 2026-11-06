@@ -1,0 +1,43 @@
+name: Update daily profile section
+
+on:
+  schedule:
+    # GitHub Actions cron uses UTC; this runs in the Vancouver morning.
+    - cron: "30 14 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/daily-profile.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-daily-section:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Refresh date and daily image
+        run: python .github/scripts/update_daily_section.py
+
+      - name: Commit updated profile
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Daily section is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Refresh daily Vancouver profile section"
+          git push
